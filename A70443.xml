@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to Hilton, the grand informer in answer to his several late printed libels.</title>
+            <author>Misonebulonides, Philoeusebias.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70443</idno>
+            <idno type="STC">Wing L1705</idno>
+            <idno type="STC">ESTC R25611</idno>
+            <idno type="EEBO-CITATION">09029333</idno>
+            <idno type="OCLC">ocm 09029333</idno>
+            <idno type="VID">42292</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42292)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:38 or 1294:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to Hilton, the grand informer in answer to his several late printed libels.</title>
+                  <author>Misonebulonides, Philoeusebias.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Lee,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Philoeusebias Misonebulonides.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Item at reel 1294:10 is incorrectly identified as Wing S2288.</note>
+                  <note>Reproduction of originals in the Harvard University Library and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hilton, John.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:42292:1"/>
+            <head>A LETTER to HILTON, <hi>The Grand Informer:</hi> In Anſwer to his Several late Printed Libels.</head>
+            <opener>
+               <salute>Renowned Captain!</salute>
+            </opener>
+            <p>I Have Peruſed with no ſmall Satisfaction, <hi>The Lamentation of a bad Market,</hi> Or, the Hiſtory of your Sufferings, Intituled, the <hi>CONVENTI<g ref="char:EOLhyphen"/>CLE-CO<g ref="char:V">Ʋ</g>RANT, ſetting forth the dayly Trou<g ref="char:EOLhyphen"/>bles, Dangers and Abuſes that LOYAL GEN<g ref="char:EOLhyphen"/>TLEMEN meet with,</hi> &amp;c. Alas! Dear Heart! what a Curſed <hi>Whiggiſh</hi> Age is this! wherein People have an Antipathy to <hi>Toads,</hi> and expreſs their Averſion againſt <hi>Vermine</hi> and <hi>Beaſts of Prey.</hi> What pitty it is, that they will not <hi>Court</hi> their Plagues, and with the Stupid <hi>Indians</hi> Worſhip the <hi>Friend</hi> that Torments them? Bleſs us! That two ſuch uſeful LOYAL Implements, as <hi>Natt. Thompſon</hi> and thy Self, ſhould ever be Liable to <hi>Factious</hi> rotten Eggs and <hi>Presbyterian</hi> Turnep-Tops.</p>
+            <p>But, <hi>Courage!</hi> Monſieur, though 'tis a Baſe Ill-natu<g ref="char:EOLhyphen"/>red World abroad, thou art extreamly Kind and Civil at Home, and <hi>Dub'ſt</hi> thy ſelf at every turn, A GEN<g ref="char:EOLhyphen"/>TLEMAN; Good Sir! Oblige us in what County lies your <hi>Eſtate,</hi> that our Friends the <hi>Addreſſors</hi> and <hi>Abhorrers</hi> may put you up for a <hi>Parliament-man</hi> next Election? In what part of the World are we to In<g ref="char:EOLhyphen"/>quire for your <hi>Mannors</hi> and your <hi>Fee-Simples?</hi> Your <hi>Manſion-Houſe</hi> we underſtand was lately a <hi>Garret</hi> in <hi>White-Fryars,</hi> and if Madam <hi>Cellier</hi> hath ſince taken you into Protection and Accommodated you with a <hi>Lodging</hi> in <hi>Arundel</hi>-Buildings, ſhe may no doubt like<g ref="char:EOLhyphen"/>wiſe have ſettled upon you a large Reverſion in <hi>New<g ref="char:EOLhyphen"/>gate;</hi>—Tis I Perceive all the <hi>Mode,</hi> now a days, for the very Scum of Mankind, to take upon them as <hi>Per<g ref="char:EOLhyphen"/>ſons of Quality,</hi> and the moſt <hi>Beggarly Cowards</hi> to Boaſt what Feats they'l do with their LIVES and FOR<g ref="char:EOLhyphen"/>TUNES.</p>
+            <p>The words <hi>Loyal</hi> and <hi>Gentleman,</hi> are grown common Proſtitutes, ask any tater'd Bulley, or Lowſy Shark o'th Town, what he is? He preſently Replies—<hi>Damn mee Sir! a Gentleman;</hi> and to ſhew ones ſelf a Mad Drunken Swearing Swaggering Coxcomb, is by ſome counted to be <hi>Loyal.</hi> Yet as it can't be Imagined that any thing of <hi>Generous</hi> Birth, or Education, would ever deſcend to the Infamous Trade of a Common IN<g ref="char:EOLhyphen"/>FORMER (eſpecially in your way, which is but to be <hi>Journey-man to the Devil,</hi> for he's Maſter of the Company, and his very Title,—<hi>Accuſer of the Brethren</hi>) ſo what mighty <hi>Loyalty</hi> there is or can be in Prophane<g ref="char:EOLhyphen"/>ing the Lords-day, diſturbing<g ref="char:punc">▪</g> Gods Worſhip, Wor<g ref="char:EOLhyphen"/>rying our Honeſt Peaceable Neighbours becauſe they have a little more Care of their <hi>Souls</hi> than our-ſelves, and Impoveriſhing and dividing his Majeſties Loyal Proteſtant Subjects, (agreed in all neceſſary Points of Religion) for ſome <hi>Trifling Ceremonies,</hi> is ſcarce to be apprehended.</p>
+            <p>Grant there be Laws unrepeal'd againſt <hi>peaceable Diſ<g ref="char:EOLhyphen"/>ſenters,</hi> yet ſince the ſame were ſo many years happily laid to ſleep by His Majeſties Prudence, and the mode<g ref="char:EOLhyphen"/>ration of his Subordinate Miniſters (of which the Na<g ref="char:EOLhyphen"/>tion have found no Cauſe to Repent) on what <hi>Provo<g ref="char:EOLhyphen"/>cation,</hi> or for what <hi>new Miſdemeanours</hi> are they now A<g ref="char:EOLhyphen"/>wakned? How come they <hi>this year</hi> to oblige your Conſcience Sir, to be an Informer! Or any Magiſtrates to Thunder and Lighten with their <hi>Warrants,</hi> more then they did two, three, four, five, or ſix years paſt? (or by the way, how comes the <hi>Act againſt Conventicles</hi> more to oblige peoples Conſciences to Execute it, than the <hi>Act for Prohibiting French Wine,</hi> Which ſworn Offi<g ref="char:EOLhyphen"/>cers not only <hi>neglect</hi> to Execute, but actually do <hi>vio<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>te</hi> it every day, and yet are blameleſs, and counted ne<g ref="char:EOLhyphen"/>ver the <hi>leſs Loyal</hi> Subjects?) If <hi>Guelphs</hi> tranſgreſs, muſt <hi>Gibelines</hi> be puniſht? Becauſe the <hi>Papiſts</hi> have Plotted Horird Treaſons, and Providence diſcovered them, muſt poor Innocent <hi>Protestant Diſſenters</hi> be therefore ſtript and laſht? Is it the beſt Courſe to preſerve our Religion and Government, to weaken the true Inte<g ref="char:EOLhyphen"/>reſts of both? Is worrying one another the only way to prevent the united Deſigns of <hi>Rome?</hi> Are our <hi>High-Church-men</hi> ſo Cock-ſure of Victory over <hi>Romes</hi> ſwarming Prieſts and Jeſuits, as to ſcorn all Aſſiſtance, nay to fall foul and deſtroy thoſe that offer it, (though never ſo heartily, and never ſo well Arm'd for the En<g ref="char:EOLhyphen"/>counter) unleſs, forſooth, they will wear the ſame <hi>Fea<g ref="char:EOLhyphen"/>thers in their Caps</hi> as they do? If theſe <hi>Tantivee-Troops</hi> all alone, are indeed ſuch an over-match for the Papiſts, how then comes it to paſs, That they have ſuffered ſo many <hi>prime Sheep</hi> to ſtray out of their own Folds, and remain <hi>Trophies</hi> to <hi>Italian Wolves,</hi> as well as <hi>plagues</hi> to their Native Country? Whereas we have ſcarce heard of above <hi>one Diſſenter</hi> that turn'd Pa<g ref="char:EOLhyphen"/>piſt theſe twenty years, and he too drawn rather by want and diſcontent, than any Conviction of Judg<g ref="char:EOLhyphen"/>ment.</p>
+            <p>'Tis true, had the late SHAM-PLOTS ſucceeded to the leaſt degree of Probability, there might have been ſome Colour for theſe Proſecutions; but ſince Heaven has unravelled thoſe <hi>Snares,</hi> and made the <hi>Innocence and Loyalty</hi> of the Diſſenters appear no leſs Illuſtrious, than the Malice and <hi>Treaſons</hi> of their Po<g ref="char:EOLhyphen"/>piſh Enemies are Notorious, ſtill to ſeek occaſions to Buffet them, ſeems like to gratify none, but thoſe E<g ref="char:EOLhyphen"/>nemies to our King and Religion who Contriv'd and were ſo diſappointed in the former Helliſh Projects of falſe Accuſation and Perjuries.</p>
+            <p>But, if neither the <hi>unreaſonableneſs,</hi> nor the <hi>unſea<g ref="char:EOLhyphen"/>ſonableneſs,</hi> yet Experience how <hi>vain</hi> ſuch Severities are to reach the Ends pretended, might be enough to divert the playing over again the ſame troubleſome Game to no purpoſe. What Advantage did there ac<g ref="char:EOLhyphen"/>crew to this Honourable City, in STARLING's Mayoralty by all the Buſle he occaſion'd? Note; but on the contrary, great Charge, Confuſion, decay of Trade, neglect of the Publick Worſhip, <hi>&amp;c.</hi> What gain'd that Gentleman to himſelf, but <hi>Damage, Trouble,</hi> and <hi>Infamy?</hi> Remember, O Doughty Captain! I will not ſay the ends of <hi>Judas</hi> and other Antients of your
+<pb facs="tcp:42292:2" rendition="simple:additions"/>Profeſſion, but the Fate of your more Modern Prede<g ref="char:EOLhyphen"/>ceſſors <hi>Sir</hi>—and <hi>Marſhal;</hi> did not <hi>One</hi> of them <hi>poor, miſerable, hated, and deſperate</hi> as <hi>Cain,</hi> breathe out his loathſome Soul in a Jail; and the other live ſcorned and neglected, withou ever getting Two-pence by all his Deviliſh Induſtry? VVas there one <hi>Diſſenter</hi> the leſs? nay were they not Increaſed? Had the Church of <hi>England</hi> thereby any Proſelytes worth owning? No, no, 'tis an Eternal Truth, That force may make many <hi>Hypocrites</hi> (and is any Church either the better or the ſtronger for ſuch?) but never one <hi>Real Convert.</hi> You may as well think to cure a man of the Cholick by <hi>Bruſhing his Cloaths,</hi> or fill a quart Pot with <hi>Syllo<g ref="char:EOLhyphen"/>giſmes,</hi> as to Convince people by <hi>Diſtreſs and Mitti<g ref="char:EOLhyphen"/>mus,</hi> or Rectify Errors of the Underſtanding by Club-Law.</p>
+            <p>Who can but obſerve, how jocund the <hi>Papiſts</hi> are at theſe Proſecutions, and that none are ſuch furious Zea<g ref="char:EOLhyphen"/>lots for driving all into <hi>Church</hi> as thoſe that very ſel<g ref="char:EOLhyphen"/>dom come there <hi>themſelves?</hi> none ſo fierce againſt Nonconformity, as thoſe who are <hi>Nonconformists</hi> to the Laws of God, and all the obligations of Sobriety, Mo<g ref="char:EOLhyphen"/>deſty and Honeſty. Amongſt theſe <hi>Spiritual Whip<g ref="char:EOLhyphen"/>ſters,</hi> you, moſt Redoubted Captain, Lead the Van; and to ſhew yourſelf accompliſht (<hi>Tam Marte quam Mercurio,</hi> as the School-boy has it) with a <hi>Maſterſome Pen</hi> as well as a <hi>dead-doing Sword,</hi> will needs divert the Town with the weekly Iliads of your Exploits in this Holy War. Where firſt you begin with a kind of Preachment.—<note n="*" place="margin">
+                  <hi>Convent. Courant,</hi> Numb. 1.</note> 
+               <hi>Had not the Actual Accompliſhment of the many</hi> DREADFUL PREDICTIONS AND DIREFULL PROPHECIES (that is, to ſay—<hi>Dread<g ref="char:EOLhyphen"/>ful</hi> and <hi>Dreadful Prophecies &amp; Prophecies,</hi>) &amp;c.—In the name of Wonder How long has the Devil turn'd <hi>Monk?</hi> Is <hi>Jack Hilton alſo amongſt the Prophets?</hi> What more <hi>Life-Guard-men</hi> ſet up for <hi>Cure of Souls?</hi> Is not this a Specimen of your <hi>Talent,</hi> how fit you may be ſhortly for a <hi>Fat Benefice?</hi> If <hi>Whiggiſm</hi> were on the <hi>Riſing Ground,</hi> who knows but we might find our <hi>Divine Captain,</hi> a <hi>Lancepeſſade</hi> to a <hi>Conventicle?</hi>—To be ſe<g ref="char:EOLhyphen"/>rious, did not Truth aſſure us, That the <hi>Devil</hi> himſelf hath more than once abuſed and perverted Sacred Leaves, we had been aſtoniſht at ſo many <hi>Texts</hi> from ſuch an un<g ref="char:EOLhyphen"/>hallowed Mouth. But tell us by all thy hopes of <hi>Knight<g ref="char:EOLhyphen"/>hood,</hi> what <hi>Romiſh Prieſt</hi> framed that Canting Preface for thee? Or what ſecurity can you give, after all this Fury againſt <hi>Diſſenters,</hi> That you yourſelf are not a <hi>Diſſenting Papiſt?</hi> What Pariſh-Church do you fre<g ref="char:EOLhyphen"/>quent? When and where did you uſe to receive the <hi>Sacrament</hi> before the ſpace of four or five years paſt? How ſhall we know, that your Title of <hi>Proteſtant</hi> is not as falſly aſſum'd as that of <hi>Captain?</hi> Which un<g ref="char:EOLhyphen"/>doubtedly commenc'd at a Bawdy-Houſe, for you never were capable of higher Preferment than a Common Trooper, where (till you were Caſheir'd for ſome of your good qualities) <hi>your Paſſive Valour</hi> under the Diſ<g ref="char:EOLhyphen"/>cipline of every mans <hi>Cane,</hi> was as famous, as now your Active Courage againſt the <hi>Phanaticks.</hi>
+            </p>
+            <p>However, be you <hi>Papiſt</hi> or <hi>Atheiſt,</hi> we know whoſe Drudgery you are doing; would not your Fooliſh Out-Cries of <hi>a Rent, a Schiſm, this Earthquake, this gaping Pit;</hi> &amp;c. have ſerved much better in Queen <hi>Mally's</hi> days, had your Worſhip but liv'd then to be one of bloody <hi>Bonners</hi> Catchpoles? Or may not any Proteſtant Church be Eſteem'd as <hi>Seditious</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nlawfull</hi> under a <hi>Popiſh Succeſſor,</hi> as a Presbyterian Conventicle? would not you gladly, if you were in <hi>France,</hi> uſe your <hi>Sublime Commiſſion and that Reſolution of the Council of Hea<g ref="char:EOLhyphen"/>ven,</hi> you talk of, To Puniſh the <hi>poor Hugonotes,</hi> if they would not Conform to the Church as there <hi>by Law Eſtabliſht?</hi> Our moſt Gracious King, as he hath oft expreſs'd his Inclinations to Indulge <hi>tender Conſciences,</hi> ſo by his ſpecial Favours to thoſe Perſecuted <hi>French</hi> Pro<g ref="char:EOLhyphen"/>teſtants, declares that he eſteems them of the <hi>ſame Re<g ref="char:EOLhyphen"/>ligion with himſelf,</hi> (which alſo his Royal Grand-Fa<g ref="char:EOLhyphen"/>ther expreſly affirmed in Print) and that he diſapproves of undoing men for their Religion, and yet thoſe <hi>French</hi> Proteſtants are <hi>Calviniſts</hi> and <hi>Presbyterians,</hi> names againſt which you vent your Spleen and Fury; and <hi>They</hi> and theſe People at home whom you are ſo Buiſy to ruine for their Religion, are of the very ſame Tenets. So that it ſeems a Riddle beyond <hi>Oedipus,</hi> if we ſhould blame Perſecutions abroad, and pitty and Harbour the Sufferers, and yet at the ſame time, practiſe in effect the ſame Severities on our own Countrey-men.</p>
+            <p>Can any thing be more ridiculouſly Impu<g ref="char:EOLhyphen"/>dent than to tell us, <hi>You Deſign the Procure<g ref="char:EOLhyphen"/>ment of Peace amongſt Chriſtians, eſpecially Pro<g ref="char:EOLhyphen"/>teſtants,</hi> and talk <hi>of your Zeal to ſerve the King, Church and Peoples Peace?</hi> A pretty way of Procuring <hi>Peace</hi> indeed, to fall foul with Vio<g ref="char:EOLhyphen"/>lence on harmleſs People in the Worſhip of the <hi>God of Peace;</hi> To dragg them from their Prayers with Tumults and Files of Muſque<g ref="char:EOLhyphen"/>teers, and a whole Regiment of <hi>Oaths</hi> and <hi>Curſes;</hi> To Jail their Perſons and Spoil their Goods, and force Families to fly from their Habitations, and Compel one Neighbour a<g ref="char:EOLhyphen"/>gainſt his Conſcience to Proſecute another, and when he would gladly be <hi>Serving God at Church,</hi> fright him with five pound Forfei<g ref="char:EOLhyphen"/>ture, if he do not Omit his own <hi>Devotions,</hi> to diſturb <hi>thoſe</hi> of others, altogether as Loy<g ref="char:EOLhyphen"/>al, and much more Orthodox and Godly than their Malicious Proſecutors; If this be Pro<g ref="char:EOLhyphen"/>moting <hi>Peace,</hi> Commend me to the <hi>Spaniſh Inquiſition</hi> for a Peace-maker.</p>
+            <p>The remainder of your firſt Libel, and thoſe that have been Publiſht ſince, your <hi>Lies, Scandals, Prophanations of Scripture,</hi> &amp;c. ſhall be Conſidered at another Opportunity, For I ſhall not fail (God willing) to wait on you <hi>again next Poſt,</hi> and undeniably prove that the Honeſt Conſtables have no Cauſe to be <hi>afraid</hi> of your Malicious Menaces, In the In<g ref="char:EOLhyphen"/>terim becauſe I have in my Baptiſm Solemnly Renounc'd <hi>the Devil and all his Works,</hi> Ex<g ref="char:EOLhyphen"/>cuſe me if I do not Subſcribe my ſelf,</p>
+            <closer>
+               <dateline>
+                  <date>Aug. 19. 1682.</date>
+               </dateline>
+               <signed>Your Servant, <hi>Philoeuſebias Miſonebulonides.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> R. Lee. 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
